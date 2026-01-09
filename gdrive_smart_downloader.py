@@ -191,4 +191,4 @@ if st.button("🧠 ابدأ التحميل الذكي"):
             os.remove(cookie_tmp_path)
 
 st.markdown("---")
-st.caption("تم التطوير بواسطة Manus AI - نسخة ذكية تتخطى أخطاء FFmpeg")
+st.caption("By Naqib")
